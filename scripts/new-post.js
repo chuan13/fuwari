@@ -45,13 +45,14 @@ if (!fs.existsSync(dirPath)) {
 const content = `---
 title: ${args[0]}
 published: ${getDate()}
+# updated: 
 description: ''
-image: ''
-tags: []
+# image: ''
 category: ''
+tags: []
 draft: false 
-lang: ''
 ---
+<span class="hidden"></span>
 `
 
 fs.writeFileSync(path.join(targetDir, fileName), content)

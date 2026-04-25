@@ -1,9 +1,17 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+## 關於這個部落格
 
-::github{repo="saicaca/fuwari"}
+　　記錄所學與所思——否則不久後就會忘記 😅
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+　　將所學書寫為筆記，是讓未來的自己能夠快速回想起曾經找過的資料、解決問題的過程，不必再花重複的力氣；將所思轉化為文字，則是讓未來的自己能夠回想起曾經煩惱的旅途、在意的關鍵，瞭解是什麼樣的經歷造就了現況。  
+　　並且，撰寫文章的過程中總會重複反芻思緒，能夠觸發更深的理解與體驗。
+
+　　之所以放上公開的部落格，一方面是可能會有同樣經歷迷途的網友恰巧來到、或許能得到一點啟發；另一方面——這樣一來無論我在使用哪個裝置，只要有網路都查得到 XD
+
+### 關於這個部落格的技術方面
+
+　　目前使用的框架是 [Astro](https://astro.build/)、主題是 [Fuwari](https://github.com/saicaca/fuwari)，佈署於 CloudFlare Workers。
+
+
+## 關於我
+
+　　喜歡學習實用的知識；遇到不便就想改善，於是學了寫程式。
